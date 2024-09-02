@@ -1,4 +1,4 @@
-#Taj Mahal 3D Rendering with OpenGL
+# Taj Mahal 3D Rendering with OpenGL
 
 This Windows application renders a 3D model of the Taj Mahal, the awe-inspiring architectural monument built by Shah Jahan for his beloved wife Mumtaz. Learn more about the Taj Mahal [here](https://en.wikipedia.org/wiki/Taj_Mahal).
 
