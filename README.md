@@ -2,8 +2,6 @@
 
 This Windows application renders a 3D model of the Taj Mahal, the awe-inspiring architectural monument built by Shah Jahan for his beloved wife Mumtaz. Learn more about the Taj Mahal [here](https://en.wikipedia.org/wiki/Taj_Mahal).
 
-**Developed for an undergraduate Graphics course project using OpenGL libraries.**
-
 **Rendered Images**: Explore the `rendered_images` folder to see examples of the rendered Taj Mahal model. Example:
 ![Rendered image of the model from the app](https://github.com/ehsan-ashik/Tajmahal-3D-renderer/blob/main/rendered%20images/white-light-1.PNG)
 
